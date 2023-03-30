@@ -31,4 +31,12 @@ Here is the list of classes in the CIFAR-100:
 
 
 Streamlit deploy 	
+
  ![Screenshot](image/deploy.png)
+
+ Use
+
+    pip install -r requirements.txt
+
+
+![Download and run notebook](https://github.com/FreckledMe/cifar100/blob/main/cifar100.ipynb)
